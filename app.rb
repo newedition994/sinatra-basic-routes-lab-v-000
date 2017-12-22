@@ -6,6 +6,10 @@ class App < Sinatra::Base
   end
 
   get '/hometown' do
+
+  end
+
+  get '/favorite-song' do
     
   end
 end
